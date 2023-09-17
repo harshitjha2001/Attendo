@@ -6,7 +6,7 @@ AttenDo is a real-time face recognition-based attendance tracking system. This s
 ## Screenshots
 
 - ACTIVE SCREEN
-- 
+
 ![1](https://github.com/harshitjha2001/Attendo/assets/85453454/9fedde62-8909-41c1-80d1-d82da0e556c8)
 
 - SHOWING STUDENT DATA IF FACE MATCHED FROM DATABASE
