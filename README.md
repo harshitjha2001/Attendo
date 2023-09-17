@@ -1,4 +1,4 @@
-# PUNK HAZARD CHATBOT
+# ATTENDO
 
 
 AttenDo is a real-time face recognition-based attendance tracking system. This system is integrated with a student database to streamline and automate attendance management processes. By utilizing the face-recognition Python library for face encoding and recognition, and seamlessly integrating it with Firebase to store student information, we've created an efficient and accurate solution for attendance tracking.
